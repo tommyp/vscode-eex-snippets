@@ -41,6 +41,14 @@
       {
         "language": "html-eex",
         "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "leex",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "html-leex",
+        "path": "./snippets/snippets.json"
       }
     ]
   }
